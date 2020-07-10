@@ -12,5 +12,18 @@ Problems
 - Multiple pieces plus a network so many failure problems
 - Often to get performance but it is tricky to do it
 
+We will talk about Systems that provide / Abstractions
+ - storage
+ - Communication
+ - Computation
+
+- Abstractions
+ Rpc
+ Threads
+ Concurrency control
+ 
+ Performance
+  - Scalability
+
 ## Some case studies to loook
 Peer to peer 
