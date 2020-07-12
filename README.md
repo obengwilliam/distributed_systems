@@ -60,13 +60,16 @@ Map task
 Reduce task
 
 Map Reduce Implementation to count words in some db
-
+```
 Map(k,v):
   split v into words
   for each word in words:
     emit(word, 1)
+ ```
     
+ ```
 Reduce(k,v):
    emit(len(v))
-
+```
+Nb. Input and reducer output is from GFS(Google FileSystem)
 
