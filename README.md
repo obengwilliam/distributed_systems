@@ -73,3 +73,7 @@ Reduce(k,v):
 ```
 Nb. Input and reducer output is from GFS(Google FileSystem)
 
+
+## Is a cluster file system ?
+what the hell is that ?
+
