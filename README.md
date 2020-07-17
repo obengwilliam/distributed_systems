@@ -68,12 +68,29 @@ across multiple computers focused on a specific goal
  `strong consistency`
   - Key value pair example
   - Making sure things are replicated consistently
+  - sometimes it good to provide week consistent
+  - strong is an expensive consistency
   
-  ?  sometimes it good to provide week consistent
+  
+# Scalability
+it is the ability of a system, a process or a network to work under increasing growth or to be be able expand to accommodate it that growth.
+
+## Growing/ Characteristics of a Scalable systerm
+ -  DataSet grow it should not increase latency(Size)
+ -  Adding more nodes should make it faster(Size)
+ -  Administrative Cost should not grow too much as your Grow(Administrative)
+ -  Multiple data centers should improve administractive cost(Geographic)
  
- strong is an expensive consistency
-  throuput
+### Performance and Availability
+ A scalable system should continue to meet the needs of it users as load increases.
+ #### Performance
+ A system is performance if 
+  - it uses low resources with respect to the amount of work it does
+  - it has high throughput, it does  more work in a short amount of time
+  - it has low latency, the time it takes to complete some work.
+  
  
+
 # Case studies
 ## MapReduce Framework 
 Easy way to run giant distributed computations without worrying developers.
