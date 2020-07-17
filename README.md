@@ -43,8 +43,13 @@ across multiple computers focused on a specific goal
 
  
  # Common Topics
+ ## Rpc
  - Rpc(mask that we communicating over unreliable networks) (tools)
+ 
+ ## Threads
  - Threads(harness multiple core computers, structure concurrent applications that simplifies a programmers view) (tools)
+ 
+ ## Concurrency Control
  - Concurrency control(An obvious extension of using thread ) (tools)
  
  ## Performance
