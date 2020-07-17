@@ -1,20 +1,48 @@
 # understanding_distributed_systems
-`If you can possibly do without distributed systems then you should do it` - Robert Morris
+`If you can possibly do it without distributed systems then you should do it` - Robert Morris
+
+
+# What is distributed Systems?
+Coperating computers communication over a network to get some concurrent task done 
+
+### Examples
+- Big Data computations like map reduce
+- peer to peer file sharing
+
+
+# Why is it important to learn about it ?
+ - critical infrastracture out is basded on distributed
+ 
+## But Why ?
+ - high performace/ to archieve some form of parellism
+ - To tolerate fault 
+ -  Some problems are natuarlly spread out in space- Bank transfer across countries
+ - Security Goal to archieve isolation
+ 
+# Why is it generally considerd hard?
+- Concurrency problems
+- Unexpected failure patterns/ Like partial failures
+- Often to get performance but it is still tricky and need to more carefull
+
+
+# Why any developer will be interested?
+- Generally for the Developer distributed systerms have interesting problems and solutions which interesting
+- Goood a mental model or all the systems we interact on a daily basics
+
+# But before we continue what is a system ?
+A software system generally can broken down to three things
+ - storage
+ - computation
+ - communication
+
+So a distributed software system is simply providing useful abstractions around stroage, computation and communication
+across multiple computers focused on a specific goal
 
 
 
 
-By why
-high performance through parellism
-tolerate fault 
-Natural physical reasons - talking too banks at different locations
-Security Goal 
 
 
-Problems
-- Concurreny problems
-- Multiple pieces plus a network so many failure problems
-- Often to get performance but it is tricky to do it
 
 We will talk about Systems that provide / Abstractions
  - storage
