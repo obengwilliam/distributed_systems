@@ -3,7 +3,7 @@
 
 
 # What is distributed Systems?
-Coperating computers communication over a network to get some concurrent task done 
+Co-operating computers communication over a network to get some concurrent task done 
 
 ### Examples
 - Big Data computations like map reduce
