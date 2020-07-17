@@ -11,7 +11,7 @@ Co-operating computers communication over a network to get some concurrent task 
 
 
 # Why is it important to learn about it ?
- - critical infrastracture out is basded on distributed
+ - critical infrastracture out is based on distributed
  - At a certain point in time, you will have no choice
  
 ## But Why ?
