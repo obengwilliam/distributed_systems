@@ -41,20 +41,12 @@ across multiple computers focused on a specific goal
 
 
 
-
-
-
-We will talk about Systems that provide / Abstractions
- - storage
- - Communication
- - Computation
-
-- Abstractions
- Rpc
- Threads
- Concurrency control
  
  # Common Topics
+ - Rpc(mask that we communicating over unreliable networks) (tools)
+ - Threads(harness multiple core computers, structure concurrent applications that simplifies a programmers view) (tools)
+ - Concurrency control(An obvious extension of using thread ) (tools)
+ 
  ## Performance
   - Scalability - cheaper
   
@@ -74,8 +66,6 @@ We will talk about Systems that provide / Abstractions
   ?  sometimes it good to provide week consistent
  
  strong is an expensive consistency
-  
-  
   throuput
  
 
@@ -83,8 +73,8 @@ We will talk about Systems that provide / Abstractions
 - Peer to peer 
 - MapReduce
 
- 
-# MapReduce Framework 
+# Case studies
+## MapReduce Framework 
 Easy way to run giant distributed computations without worrying developers.
 
 Jobs
