@@ -77,3 +77,8 @@ Nb. Input and reducer output is from GFS(Google FileSystem)
 ## Is a cluster file system ?
 what the hell is that ?
 
+
+
+[Robert Morris MIT](https://www.youtube.com/watch?v=cQP8WApzIQQ)
+[Simple Note on Distributed Systems](http://book.mixu.net/distsys/single-page.html)
+
