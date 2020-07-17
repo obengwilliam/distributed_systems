@@ -1,5 +1,9 @@
 # understanding_distributed_systems
-`If you can possible do without distributed systems you should do it`
+`If you can possibly do without distributed systems then you should do it` - Robert Morris
+
+
+
+
 By why
 high performance through parellism
 tolerate fault 
