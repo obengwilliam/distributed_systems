@@ -73,11 +73,6 @@ across multiple computers focused on a specific goal
  strong is an expensive consistency
   throuput
  
-
-## Some case studies to loook
-- Peer to peer 
-- MapReduce
-
 # Case studies
 ## MapReduce Framework 
 Easy way to run giant distributed computations without worrying developers.
