@@ -12,6 +12,7 @@ Coperating computers communication over a network to get some concurrent task do
 
 # Why is it important to learn about it ?
  - critical infrastracture out is basded on distributed
+ - At a certain point in time, you will have no choice
  
 ## But Why ?
  - high performace/ to archieve some form of parellism
